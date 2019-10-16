@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes on IM</title>
+    <title>Source Themes | IM</title>
     <link>/tags/source-themes/</link>
-    <description>Recent content in Source Themes on IM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
     
     <item>
       <title>Crossing Borders: United States Foreign Policy in Latin America</title>
       <link>/publication/chapter/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/chapter/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -37,7 +37,6 @@
       <title>Authoritarian Institutions and Industrial Policy: The Political Economy of Industrial Reform during the Argentine Dictatorship</title>
       <link>/publication/de18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/de18/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -59,7 +58,6 @@
       <title>Distributive Politics in Developing Federal Democracies: Compensating Governors for Their Territorial Support</title>
       <link>/publication/laps/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/laps/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -81,7 +79,6 @@
       <title>Who Distributes? Presidents, Congress, Governors, and the Politics of Distribution in Argentina and Brazil</title>
       <link>/publication/ribero/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/ribero/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -103,7 +100,6 @@
       <title>Fiscal Pressures and Partisan Conflict in Argentina</title>
       <link>/publication/rcp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/publication/rcp/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -125,7 +121,6 @@
       <title>La economía política de la distribución federal de obra pública en Argentina</title>
       <link>/publication/de11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/de11/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
