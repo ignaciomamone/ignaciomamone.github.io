@@ -1,0 +1,656 @@
+varname,item,country,date,N,agree,disagree,dk
+romfreearg,Que opinion tiene sobre la apertura de las importaciones? Usted cree que es positivo para el pais,Argentina,9/20/1993,1148,39,32,29
+usiafreearg,"Segun algunas personas deberiamos permitir la entrada libre de productos extranjeros a nuestro pais porque los consumidores pagarian menos. Otros dicen que deberiamos limitar el flujo de productos extranjeros para mantener el nivel de empleo (""permitir""=agree; ""restringir""=disagree)",Argentina,10/31/1994,1195,41.4,58.6,
+romfreearg,"Esta usted de acuerdo en que la apertura de las importaciones beneficia a los consumidores porque pueden comprar productos mejores y mas baratos, o que la apertura perjudica a la gente porque aumenta el desempleo?",Argentina,5/16/1994,1287,26,49.4,24.6
+romftaarg,"Existe un debate en los diferentes sectores politicos respecto de la integracion en bloques economicos. Cree que la argentina deberia privilegiar ingresar al NAFTA, continuar en el Mercosur, o ninguna de las dos? (1, 2=agree; 3=disagree)",Argentina,5/16/1994,1274,50.6,16.2,33.2
+romexparg,"Do you oppose the export taxes enacted by Congress to face the ongoing economic crisis? (""agree with duties""=disagree; ""disagree with duties""=agree)",Argentina,4/3/1995,1313,37.2,28.8,34
+romfreearg,"Do you oppose the import tariffs established by Congress to face the ongoing economic crisis? (""agree with duties""=disagree; ""disagree with duties""=agree)",Argentina,4/3/1995,1313,20.2,47.5,32.3
+romfreearg,Esta de acuerdo con la apertura a los productos extranjeros?,Argentina,10/15/1995,1312,41,47,12
+lbalcaarg,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Argentina,6/30/1995,1200,68.33,10,21.67
+lbfreearg,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Argentina,7/8/1996,1200,61.05,15.93,23.02
+lbalcaarg,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Argentina,7/8/1996,1200,48.63,27.52,23.85
+lbfreearg,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Argentina,12/5/1997,1196,34.03,55.51,10.45
+wsjfreearg,Do you think that free trade is good or bad for our country?,Argentina,3/30/1998,0,66,,
+wsjpta1arg,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Argentina,3/30/1999,1001,12,,
+wsjpta2arg,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Argentina,3/30/1999,1001,56,,
+usiausftaarg,Do you have a good opinion of US policies which promote free trade within the region,Argentina,10/18/1999,1412,51.7,16.4,31.9
+usiafreearg,"Taking everything into account, to what degree do you think that free trade benefits your country's economy",Argentina,12/21/2000,1200,43,41.3,15.6
+usiaalcaarg,(For respondents who say they know about the agreement) Would the FTAAs be beneficial or harmful in terms of creating new jobs?,Argentina,3/19/2001,287,65,14.5,20.5
+usiaalcaarg,(For respondents who say they know about the agreement) Would the FTAAs be beneficial or harmful in terms of creating new jobs?,Argentina,11/30/2001,445,50,22,27
+lbalcaarg,Benefits of ALCA in the economic development of the country,Argentina,5/4/2001,1200,48.33,33,18.67
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,7/29/2002,814,60,31,9
+cimaalcaarg,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Argentina,2/14/2003,1015,31,24,45
+cimaglobarg,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Argentina,2/14/2003,1015,26,51,23
+lbftaarg_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Argentina,8/19/2003,1200,12,39.5,48.5
+cimaalcaarg,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Argentina,5/30/2004,1014,19,41,40
+cimaglobarg,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Argentina,5/30/2004,1014,27,50,23
+lbftaarg_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Argentina,6/18/2004,1200,30,20.75,49.25
+lbalcaarg,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Argentina,6/18/2004,1200,49.5,22.33,28.17
+lbftaarg_job,impact of economic integration agreements on job opportunities,Argentina,11/5/2006,1200,51.75,11.83,36.42
+lbftaarg_acc,impact of economic integration agreements on access to goods,Argentina,11/5/2006,1200,62.75,13.08,24.17
+lbftaarg_ind,impact of economic integration agreements on quality of life,Argentina,11/5/2006,1200,55.42,13.75,30.83
+lbftaarg_dev,impact of economic integration agreements on country development,Argentina,11/5/2006,1200,64.59,10.75,24.66
+lbfreearg,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Argentina,11/5/2006,1200,69.75,24.17,6.08
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,4/23/2007,800,68,19,12
+lbfreearg,Agree with the elimination of import and export taxes in order to increase regional integration,Argentina,10/9/2007,1200,36.67,54,9.33
+lbftaarg_job,International free trade treaties have a very positive impact on job opportunities,Argentina,10/9/2007,1200,33.08,20.67,46.25
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,4/3/2008,801,62,27,11
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,6/3/2009,800,65,24,11
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,5/4/2010,803,72,21,8
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,5/11/2014,1000,68,16,16
+pewglobarg_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Argentina,5/11/2014,1000,59,20,22
+pewglobarg_job,Do you agree that trade with other countries leads to jobs creation in your country?,Argentina,5/11/2014,1000,63,21,16
+pewglobarg_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Argentina,5/11/2014,1000,39,41,20
+lbfreearg,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Argentina,2/15/2015,1200,71.59,15.58,12.83
+lbfreearg,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Argentina,6/15/2016,1200,75.25,18.67,6
+lbfreearg,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Argentina,8/28/2017,1200,75.33,22.66,2
+pewglobarg,What do you think about the growing trade and business ties between your country and other countries?,Argentina,7/10/2018,1000,54,38,8
+pewglobarg_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Argentina,7/10/2018,1000,47,44,9
+pewglobarg_job,Do you agree that trade with other countries leads to jobs creation in your country?,Argentina,7/10/2018,1000,38,53,8
+pewglobarg_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Argentina,7/10/2018,1000,33,58,8
+lbfreebol,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Bolivia,7/10/1996,772,69.82,22.15,8.03
+lbalcabol,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Bolivia,7/10/1996,772,49.35,34.84,15.81
+lbfreebol,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Bolivia,12/18/1997,796,55.9,36.44,7.66
+wsjfreebol,Do you think that free trade is good or bad for our country?,Bolivia,3/30/1998,0,82,,
+lbalcabol,Benefits of ALCA in the economic development of the country,Bolivia,5/31/2001,1075,69.86,14.61,15.53
+pewglobbol,What do you think about the growing trade and business ties between your country and other countries?,Bolivia,7/27/2002,782,77,19,5
+cimaalcabol,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Bolivia,2/14/2003,828,23,56,21
+cimaglobbol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Bolivia,2/14/2003,828,24,68,8
+lbftabol_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Bolivia,8/13/2003,1200,29.25,57.59,13.16
+cimaalcabol,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Bolivia,5/30/2004,819,25,51,24
+cimaglobbol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Bolivia,5/30/2004,819,25,70,5
+lbftabol_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Bolivia,6/10/2004,1201,27.15,28.15,44.71
+lbalcabol,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Bolivia,6/10/2004,1201,46.71,28.14,25.15
+lbftabol_job,impact of economic integration agreements on job opportunities,Bolivia,11/5/2006,1200,54.84,25.25,19.92
+lbftabol_acc,impact of economic integration agreements on access to goods,Bolivia,11/5/2006,1200,53.84,24.16,22
+lbftabol_ind,impact of economic integration agreements on quality of life,Bolivia,11/5/2006,1200,54.58,23.33,22.09
+lbftabol_dev,impact of economic integration agreements on country development,Bolivia,11/5/2006,1200,58.66,22.42,18.91
+lbfreebol,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Bolivia,11/5/2006,1200,56.25,37.09,6.67
+pewglobbol,What do you think about the growing trade and business ties between your country and other countries?,Bolivia,5/1/2007,834,80,15,5
+lbfreebol,Agree with the elimination of import and export taxes in order to increase regional integration,Bolivia,10/9/2007,1200,43.08,49.84,7.08
+lbftabol_job,International free trade treaties have a very positive impact on job opportunities,Bolivia,10/9/2007,1200,49.42,19.5,31.09
+cimaftabol,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Bolivia,3/31/2009,2155,41,47,12
+cimaglobbol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Bolivia,3/31/2009,2155,37,47,16
+cimaftabol,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Bolivia,3/31/2011,1029,45,,
+lbfreebol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Bolivia,2/15/2015,1200,61.5,24,14.5
+lbfreebol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Bolivia,6/15/2016,1200,59.58,28.83,11.58
+lbfreebol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Bolivia,8/28/2017,1200,69.66,27.91,2.42
+usiafreebra,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. Do you personally favor free trade?,Brazil,10/31/1985,2811,40.2,34.5,25.3
+usiafreebra,Do you think that free trade is good for the development of your country?,Brazil,10/1/1985,1701,57,29,14
+usiafreebra,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Brazil,8/23/1990,1000,58.2,32.4,9.4
+usiafreebra,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Brazil,8/31/1994,1400,53.5,39.4,7.1
+lbalcabra,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Brazil,6/30/1995,1200,62.08,14.92,23
+usiamercobra,"(For respondents who say they know about the agreement) Taking everything into account, to what degree do you think that MERCOSUR benefits your country's economy",Brazil,4/9/1996,754,63.5,30,6.5
+lbfreebra,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Brazil,7/8/1996,1080,70,23.52,6.48
+lbalcabra,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Brazil,7/8/1996,1080,46.2,36.67,17.13
+usiamercobra,"(For respondents who say they know about the agreement) Taking everything into account, to what degree do you think that MERCOSUR benefits your country's economy",Brazil,4/8/1997,736,55.7,36.4,7.8
+usiafreebra,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Brazil,4/8/1997,1200,49.5,35.5,15
+lbfreebra,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Brazil,12/28/1997,1001,65.94,22.18,11.89
+wsjfreebra,Do you think that free trade is good or bad for our country?,Brazil,3/30/1998,0,74,,
+wsjpta1bra,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Brazil,3/30/1999,993,33,,
+wsjpta2bra,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Brazil,3/30/1999,993,70,,
+usiamercobra,"(For respondents who say they know about the agreement) Taking everything into account, to what degree do you think that MERCOSUR benefits your country's economy",Brazil,10/6/1999,973,55.4,38.4,6.2
+usiafreebra,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Brazil,10/6/1999,1500,47.2,35.7,17
+usiaalcabra,(For respondents who say they know about the agreement) Would the FTAAs be beneficial or harmful in terms of creating new jobs?,Brazil,3/15/2001,378,84,10,6
+usiaalcabra,(For respondents who say they know about the agreement) Would the FTAAs be beneficial or harmful in terms of creating new jobs?,Brazil,12/18/2001,415,70,16,14
+lbalcabra,Benefits of ALCA in the economic development of the country,Brazil,4/11/2001,1000,38.7,43.3,18
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,8/2/2002,1000,73,18,9
+cimaalcabra,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Brazil,2/14/2003,506,26,57,17
+cimaglobbra,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Brazil,2/14/2003,506,56,35,9
+lbftabra_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Brazil,8/7/2003,1200,32.42,49.33,18.25
+cimaalcabra,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Brazil,5/30/2004,500,35,45,20
+cimaglobbra,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Brazil,5/30/2004,500,55,38,7
+lbftabra_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Brazil,6/16/2004,1204,31.65,14.2,54.15
+lbalcabra,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Brazil,6/16/2004,1204,56.65,11.88,31.48
+lbftabra_job,impact of economic integration agreements on job opportunities,Brazil,11/5/2006,1204,47.67,23.59,28.74
+lbftabra_acc,impact of economic integration agreements on access to goods,Brazil,11/5/2006,1204,54.74,18.03,27.24
+lbftabra_ind,impact of economic integration agreements on quality of life,Brazil,11/5/2006,1204,55.82,17.28,26.91
+lbftabra_dev,impact of economic integration agreements on country development,Brazil,11/5/2006,1204,54.24,21.42,24.29
+lbfreebra,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Brazil,11/5/2006,1204,77,17.52,5.48
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,5/5/2007,1000,72,25,3
+lapftabra,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Brazil,2/1/2007,1214,46.5,39.3,14.2
+lbfreebra,Agree with the elimination of import and export taxes in order to increase regional integration,Brazil,10/9/2007,1204,48.75,37.21,14.04
+lbftabra_job,International free trade treaties have a very positive impact on job opportunities,Brazil,10/9/2007,1204,43.02,16.86,40.11
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,4/8/2008,1000,80,14,5
+lapftabra,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Brazil,5/30/2008,1497,32.3,30.4,37.3
+cimaftabra,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Brazil,3/31/2009,800,70,20,10
+cimaglobbra,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Brazil,3/31/2009,800,77,16,7
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,6/14/2009,813,87,9,4
+cidetradebra,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Brazil,12/1/2010,0,69,17,14
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,5/6/2010,1000,87,9,5
+lapftabra,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Brazil,4/30/2010,2482,44.9,22.5,32.6
+cimaftabra,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Brazil,4/30/2011,300,75,,
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,4/5/2011,802,81,12,7
+cideglobalbra,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Brazil,11/30/2014,0,65,11,24
+cidetradebra,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Brazil,11/30/2014,0,65,24,11
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,4/30/2014,1003,80,14,6
+pewglobbra_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Brazil,4/30/2014,1003,79,16,6
+pewglobbra_job,Do you agree that trade with other countries leads to jobs creation in your country?,Brazil,4/30/2014,1003,81,15,4
+pewglobbra_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Brazil,4/30/2014,1003,41,55,4
+lbfreebra,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Brazil,2/15/2015,1250,77.92,9.92,12.16
+lbfreebra,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Brazil,6/15/2016,1204,70.77,19.76,9.4
+lbfreebra,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Brazil,8/28/2017,1200,78.33,14.67,7
+pewglobbra,What do you think about the growing trade and business ties between your country and other countries?,Brazil,7/18/2018,1008,72,23,5
+pewglobbra_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Brazil,7/18/2018,1008,73,20,8
+pewglobbra_job,Do you agree that trade with other countries leads to jobs creation in your country?,Brazil,7/18/2018,1008,69,26,6
+pewglobbra_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Brazil,7/18/2018,1008,37,58,5
+usiausftachi,Do you agree that a FTA with the United States will be beneficial to the economic development of your country?,Chile,8/19/1990,1500,64.2,21.2,14.6
+usiafreechi,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Chile,9/30/1994,1282,28.3,68.5,3.2
+lbalcachi,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Chile,5/30/1995,1240,63.87,9.84,26.29
+lbfreechi,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Chile,6/30/1996,1200,73.75,11.25,15
+lbalcachi,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Chile,6/30/1996,1200,41.83,34.67,23.5
+lbfreechi,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Chile,12/11/1997,1200,68.09,20.83,11.08
+wsjfreechi,Do you think that free trade is good or bad for our country?,Chile,3/30/1998,0,79,,
+usiausftachi,(For respondents who say they know about the agreement) Do you agree that a FTA with the United States will be beneficial to the economic development of your country?,Chile,4/4/2001,435,76,17,7
+usiaalcachi,(For respondents who say they know about the agreement) Would the FTAAs be beneficial or harmful in terms of creating new jobs?,Chile,11/23/2001,829,72,14,14
+lbalcachi,Benefits of ALCA in the economic development of the country,Chile,5/17/2001,1174,71.13,14.83,14.05
+cimaalcachi,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Chile,2/14/2003,501,74,14,12
+cimaglobchi,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Chile,2/14/2003,501,76,17,7
+lbftachi_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Chile,8/11/2003,1200,40.42,39.67,19.92
+cimaalcachi,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Chile,5/30/2004,502,65,20,15
+cimaglobchi,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Chile,5/30/2004,502,75,18,7
+lbftachi_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Chile,6/2/2004,1200,51.33,10.25,38.42
+lbalcachi,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Chile,6/2/2004,1200,72.5,9.58,17.92
+lbftachi_job,impact of economic integration agreements on job opportunities,Chile,11/5/2006,1200,56.75,16.17,27.08
+lbftachi_acc,impact of economic integration agreements on access to goods,Chile,11/5/2006,1200,70.84,12.91,16.25
+lbftachi_ind,impact of economic integration agreements on quality of life,Chile,11/5/2006,1200,60.5,17.75,21.75
+lbftachi_dev,impact of economic integration agreements on country development,Chile,11/5/2006,1200,70.67,13.92,15.42
+lbfreechi,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Chile,11/5/2006,1200,74.58,18.42,7
+pewglobchi,What do you think about the growing trade and business ties between your country and other countries?,Chile,4/27/2007,800,88,8,4
+lbfreechi,Agree with the elimination of import and export taxes in order to increase regional integration,Chile,10/9/2007,1200,41,39.75,19.25
+lbftachi_job,International free trade treaties have a very positive impact on job opportunities,Chile,10/9/2007,1200,52.83,10.42,36.76
+cideglobalchi,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Chile,12/3/2008,1574,77,11,12
+cidetradechi,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Chile,12/3/2008,1574,83,9,8
+cimaftachi,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Chile,3/31/2009,601,81,9,10
+cimaglobchi,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Chile,3/31/2009,601,78,12,10
+cimaftachi,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Chile,4/30/2011,1011,76,,
+cidetradechi,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Chile,11/30/2014,1206,76,10,14
+cideglobalchi,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Chile,11/30/2014,586,59,12,29
+cideglobal2chi,La globalizaci¢n tiene ventajas (ej.mayor oferta de productos a precios m s bajos) y desventajas (ej mayor vulnerabilidad frente a crisis internacionales). ¨Cree que esto es generalmente bueno o generalmente malo para el pais?,Chile,11/30/2014,620,50,15,35
+pewglobchi,What do you think about the growing trade and business ties between your country and other countries?,Chile,5/5/2014,1000,85,9,7
+lbfreechi,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Chile,2/15/2015,1200,77.75,9.41,12.83
+lbfreechi,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Chile,6/15/2016,1200,72.33,15.5,12.17
+lbfreechi,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Chile,8/28/2017,1200,74.09,8.58,17.33
+usiafreecol,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Colombia,9/22/1985,1510,65.3,28,6.7
+usiafreecol,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Colombia,3/12/1986,1414,66.5,28.8,4.7
+usiafree2col,Some people favor restrictions on foreign imports to protect jobs in certain industries. Others oppose them because they would lead to higher prices for consumers. What do you prefer? (no restrictions: agree; restrictions: disagree),Colombia,3/12/1986,1414,49,45,6
+usiauspolcol,Do you think that the free trade policy of the US toward Latin America will benefit the economy of your country?,Colombia,12/20/1993,1404,50,28,22
+usiaalcacol,Do you think that the FTAAS will benefit the economy of your country?,Colombia,12/20/1993,1404,65,18,17
+usiafreecol,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Colombia,9/30/1994,1357,42,55,3
+usiauspolcol,Do you agree with the US policy of free trade in Latin America?,Colombia,12/3/1996,1200,78,11,11
+lbfreecol,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Colombia,6/30/1996,1202,85.27,10.4,4.32
+lbfreecol,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Colombia,12/17/1997,1200,64.34,32,3.67
+wsjfreecol,Do you think that free trade is good or bad for our country?,Colombia,3/30/1998,0,80,,
+lbalcacol,Benefits of ALCA in the economic development of the country,Colombia,5/15/2001,1199,60.55,13.85,25.6
+cimaalcacol,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Colombia,2/14/2003,600,65,15,20
+cimaglobcol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Colombia,2/14/2003,600,54,35,11
+lbftacol_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Colombia,8/18/2003,1200,20.16,15.92,63.91
+cimaalcacol,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Colombia,5/30/2004,650,55,24,21
+cimaglobcol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Colombia,5/30/2004,650,48,41,11
+lapftacol,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Colombia,4/1/2004,1479,51.3,23.9,24.7
+lbftacol_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Colombia,6/25/2004,1200,42.25,21.17,36.58
+lbalcacol,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Colombia,6/25/2004,1200,59.16,24.42,16.42
+lbftacol_job,impact of economic integration agreements on job opportunities,Colombia,11/5/2006,1200,58.25,25.92,15.84
+lbftacol_acc,impact of economic integration agreements on access to goods,Colombia,11/5/2006,1200,67.42,19,13.58
+lbftacol_ind,impact of economic integration agreements on quality of life,Colombia,11/5/2006,1200,65.83,21.66,12.5
+lbftacol_dev,impact of economic integration agreements on country development,Colombia,11/5/2006,1200,64.92,23.17,11.91
+lbfreecol,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Colombia,11/5/2006,1200,83.75,14.75,1.5
+lbfreecol,Agree with the elimination of import and export taxes in order to increase regional integration,Colombia,10/9/2007,1200,65.33,28.92,5.75
+lbftacol_job,International free trade treaties have a very positive impact on job opportunities,Colombia,10/9/2007,1200,54.41,19.75,25.83
+cidetradecol,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Colombia,10/29/2008,1500,49,25,26
+lapftacol,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Colombia,2/28/2008,1503,42.2,30.1,27.7
+cimaftacol,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Colombia,3/31/2009,600,66,31,3
+cimaglobcol,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Colombia,3/31/2009,600,60,31,9
+cidetradecol,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Colombia,10/30/2010,1500,51.5,28.5,20
+lapftacol,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Colombia,5/30/2010,1506,53.9,20.6,25.6
+cimaftacol,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Colombia,4/30/2011,600,64,,
+cidetradecol,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Colombia,12/15/2012,1700,51,19,30
+pewglobcol,What do you think about the growing trade and business ties between your country and other countries?,Colombia,5/8/2014,1002,68,25,7
+cidetradecol,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Colombia,5/29/2015,1500,45,23,32
+lbfreecol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Colombia,2/15/2015,1200,63.66,28.83,7.5
+lbfreecol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Colombia,6/15/2016,1200,59.33,37.41,3.2
+lbfreecol,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Colombia,8/28/2017,1200,74.25,23.75,2
+usiafreecri,El gobierno propone permitir a casi todos los productos extranjeros entran con pocos impuestos. Algunos dicen que nuestros productos no podran competir y quebraran empresas. Otros dicen que podran competir al bajar los precios. Es de acuerdo en que habra mas competencia?,Costa Rica,3/31/1992,1220,68,10,22
+lbfreecri,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Costa Rica,9/1/1996,1001,64.34,13.69,21.98
+lbalcacri,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Costa Rica,9/1/1996,1001,36.26,34.46,29.27
+usiafreecri,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Costa Rica,8/7/1997,1000,61.2,27.6,11.2
+lbfreecri,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Costa Rica,12/19/1997,1007,70.61,22.14,7.25
+wsjfreecri,Do you think that free trade is good or bad for our country?,Costa Rica,3/30/1998,0,87,,
+wsjpta1cri,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Costa Rica,3/30/1999,750,53,,
+wsjpta2cri,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Costa Rica,3/30/1999,750,74,,
+lbalcacri,Benefits of ALCA in the economic development of the country,Costa Rica,5/17/2001,1000,74.3,14.5,11.2
+lbftacri_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Costa Rica,8/14/2003,1004,40.84,32.67,26.5
+cimaalcacri,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Costa Rica,5/30/2004,199,69,21,10
+cimaglobcri,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Costa Rica,5/30/2004,199,38,55,7
+lbftacri_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Costa Rica,6/4/2004,1000,49.7,17.5,32.8
+lbalcacri,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Costa Rica,6/4/2004,1000,64.2,17.4,18.6
+lbftacri_job,impact of economic integration agreements on job opportunities,Costa Rica,11/5/2006,1000,59.6,16.7,23.53
+lbftacri_acc,impact of economic integration agreements on access to goods,Costa Rica,11/5/2006,1000,61.3,16.7,22
+lbftacri_ind,impact of economic integration agreements on quality of life,Costa Rica,11/5/2006,1000,60.3,17.6,22.1
+lbftacri_dev,impact of economic integration agreements on country development,Costa Rica,11/5/2006,1000,63.8,15.3,20.9
+lbfreecri,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Costa Rica,11/5/2006,1000,73.7,20.8,10
+lbfreecri,Agree with the elimination of import and export taxes in order to increase regional integration,Costa Rica,10/9/2007,1000,57.2,32.9,9.9
+lbftacri_job,International free trade treaties have a very positive impact on job opportunities,Costa Rica,10/9/2007,1000,46.1,24.8,29.1
+lapftacos,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Costa Rica,2/28/2008,1500,47.4,26.1,26.5
+cimaftacri,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Costa Rica,3/31/2009,312,75,17,8
+cimaglobcri,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Costa Rica,3/31/2009,312,62,24,12
+lapftacos,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Costa Rica,2/28/2010,1500,50.4,26.6,23
+cimaftacri,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Costa Rica,4/30/2011,305,58,,
+lbfreecri,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Costa Rica,2/15/2015,1000,69,25.9,5.1
+lbfreecri,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Costa Rica,6/15/2016,1000,62.7,29.5,7.8
+lbfreecri,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Costa Rica,8/28/2017,1000,75.8,20.1,4.1
+wsjfreedom,Do you think that free trade is good or bad for our country?,Dominican Republic,3/30/1998,0,78,,
+cimaalcadom,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Dominican Republic,12/20/2003,200,62,24,14
+cimaglobdom,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Dominican Republic,12/20/2003,200,53,38,9
+cimaalcadom,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Dominican Republic,5/30/2004,198,47,30,23
+cimaglobdom,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Dominican Republic,5/30/2004,198,43,47,10
+lbftadom_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Dominican Republic,6/29/2004,1000,53.7,17,29.3
+lbalcadom,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Dominican Republic,6/29/2004,1000,67.7,14.6,17.7
+lbftadom_job,impact of economic integration agreements on job opportunities,Dominican Republic,11/5/2006,1000,83,11.3,5.7
+lbftadom_acc,impact of economic integration agreements on access to goods,Dominican Republic,11/5/2006,1000,74.3,16.4,9.3
+lbftadom_ind,impact of economic integration agreements on quality of life,Dominican Republic,11/5/2006,1000,79.8,13.7,6.5
+lbftadom_dev,impact of economic integration agreements on country development,Dominican Republic,11/5/2006,1000,79.7,14.8,5.5
+lbfreedom,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Dominican Republic,11/5/2006,1000,85.8,13.4,0.8
+lbfreedom,Agree with the elimination of import and export taxes in order to increase regional integration,Dominican Republic,10/9/2007,1000,77.1,18.1,4.8
+lbftadom_job,International free trade treaties have a very positive impact on job opportunities,Dominican Republic,10/9/2007,1000,73.7,12.9,13.4
+lapftadom,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Dominican Republic,3/31/2008,1507,47.7,25.3,27.1
+cimaftadom,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Dominican Republic,3/31/2009,245,57,29,14
+cimaglobdom,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Dominican Republic,3/31/2009,245,55,32,13
+lapftadom,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Dominican Republic,3/31/2010,1500,45.4,30.5,24.1
+cimaftadom,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Dominican Republic,3/31/2011,500,50,,
+lbfreedom,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Dominican Republic,2/15/2015,1000,85.1,12.7,2.2
+lbfreedom,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Dominican Republic,8/28/2017,1000,85.4,13.4,1.2
+lbfreeecu,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Ecuador,7/30/1996,1200,75.92,18.92,5.17
+lbalcaecu,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Ecuador,7/30/1996,1200,43.75,46.25,10
+lbfreeecu,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Ecuador,12/11/1997,1200,74.75,17.66,7.58
+wsjfreeecu,Do you think that free trade is good or bad for our country?,Ecuador,3/30/1998,0,88,,
+lbalcaecu,Benefits of ALCA in the economic development of the country,Ecuador,4/22/2001,1200,73.67,16.08,10.25
+cimaalcaecu,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Ecuador,2/14/2003,605,47,34,19
+cimaglobecu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Ecuador,2/14/2003,605,44,43,13
+lbftaecu_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Ecuador,8/13/2003,1200,27.17,56.42,16.41
+cimaalcaecu,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Ecuador,5/30/2004,500,37,46,17
+cimaglobecu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Ecuador,5/30/2004,500,38,51,11
+lapftaecu,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Ecuador,2/1/2004,3000,52.2,26.8,21
+lbftaecu_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Ecuador,6/22/2004,1200,46,23.83,30.17
+lbalcaecu,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Ecuador,6/22/2004,1200,53.33,36.5,10.16
+lbftaecu_job,impact of economic integration agreements on job opportunities,Ecuador,11/5/2006,1200,45.66,41.59,13.49
+lbftaecu_acc,impact of economic integration agreements on access to goods,Ecuador,11/5/2006,1200,56.08,33.41,10.51
+lbftaecu_ind,impact of economic integration agreements on quality of life,Ecuador,11/5/2006,1200,40.42,47.09,12.5
+lbftaecu_dev,impact of economic integration agreements on country development,Ecuador,11/5/2006,1200,42.33,45.17,12.49
+lbfreeecu,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Ecuador,11/5/2006,1200,61.17,35.67,3.16
+lbfreeecu,Agree with the elimination of import and export taxes in order to increase regional integration,Ecuador,10/9/2007,1200,48.92,42.92,8.17
+lbftaecu_job,International free trade treaties have a very positive impact on job opportunities,Ecuador,10/9/2007,1200,53.5,20.25,26.25
+lapftaecu,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Ecuador,3/31/2008,3000,30.2,40.9,28.9
+cimaftaecu,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Ecuador,3/31/2009,600,59,34,7
+cimaglobecu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Ecuador,3/31/2009,600,47,43,10
+cideglobalecu,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Ecuador,10/19/2010,1574,46,12,42
+cidetradeecu,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Ecuador,10/19/2010,1574,58,24,18
+lapftaecu,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Ecuador,3/31/2010,3000,41.6,26.3,32.2
+cimaftaecu,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Ecuador,4/30/2011,690,58,,
+cideglobalecu,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Ecuador,11/28/2012,1503,55,20,25
+cidetradeecu,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Ecuador,11/28/2012,1503,60,22,18
+cideglobalecu,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Ecuador,10/30/2014,0,48,16,36
+cidetradeecu,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Ecuador,10/30/2014,0,67,10,23
+lbfreeecu,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Ecuador,2/15/2015,1200,74.83,19.25,5.92
+lbfreeecu,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Ecuador,6/15/2016,1200,81.83,16.75,1.4
+lbfreeecu,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Ecuador,8/28/2017,1200,85.67,12.33,2
+usiafreeslv,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,El Salvador,9/16/1994,1202,67,23,10
+lbfreeslv,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",El Salvador,9/1/1996,1003,61.91,12.86,25.23
+lbalcaslv,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",El Salvador,9/1/1996,1003,37.89,32.11,30.01
+lbfreeslv,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",El Salvador,12/29/1997,1010,72.28,14.16,13.56
+lbalcaslv,Benefits of ALCA in the economic development of the country,El Salvador,4/30/2001,1000,64.8,23,12.1
+lbftaslv_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",El Salvador,8/2/2003,1008,38.89,45.14,15.97
+lapftaslv,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,El Salvador,2/1/2004,1589,52.4,27.7,19.9
+lbftaslv_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",El Salvador,6/4/2004,1000,45.9,22.3,31.8
+lbalcaslv,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",El Salvador,6/4/2004,1000,53,25.3,21.7
+lbftaslv_job,impact of economic integration agreements on job opportunities,El Salvador,11/5/2006,1020,45.49,29.8,24.71
+lbftaslv_acc,impact of economic integration agreements on access to goods,El Salvador,11/5/2006,1020,42.54,31.18,26.27
+lbftaslv_ind,impact of economic integration agreements on quality of life,El Salvador,11/5/2006,1020,38.53,35,26.46
+lbftaslv_dev,impact of economic integration agreements on country development,El Salvador,11/5/2006,1020,43.73,32.45,23.82
+lbfreeslv,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,El Salvador,11/5/2006,1020,67.65,19.9,12.45
+lbfreeslv,Agree with the elimination of import and export taxes in order to increase regional integration,El Salvador,10/9/2007,1000,60.2,31.7,8.1
+lbftaslv_job,International free trade treaties have a very positive impact on job opportunities,El Salvador,10/9/2007,1000,54.8,25.5,19.7
+lapftaslv,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,El Salvador,2/28/2008,1550,33.6,48.4,18.1
+cimaftaslv,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",El Salvador,3/31/2009,300,54,24,22
+cimaglobslv,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,El Salvador,3/31/2009,300,37,32,31
+lapftaslv,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,El Salvador,3/31/2010,1550,52.6,26.9,20.3
+cimaftaslv,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",El Salvador,4/30/2011,300,50,,
+pewglobslv,What do you think about the growing trade and business ties between your country and other countries?,El Salvador,5/9/2014,1010,84,14,2
+lbfreeslv,That (country) can buy goods and services from any other country and that any other country can sell goods and services,El Salvador,2/15/2015,1000,64.4,29.2,6.4
+lbfreeslv,That (country) can buy goods and services from any other country and that any other country can sell goods and services,El Salvador,6/15/2016,1000,57.3,31.4,11.3
+lbfreeslv,That (country) can buy goods and services from any other country and that any other country can sell goods and services,El Salvador,8/28/2017,1000,77,19.8,3.2
+lbfreegtm,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Guatemala,9/1/1996,1001,46.25,15.28,38.46
+lbalcagtm,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Guatemala,9/1/1996,1001,27.17,31.37,41.46
+lbfreegtm,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Guatemala,12/30/1997,1000,66.9,20.2,12.9
+wsjpta1gtm,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Guatemala,3/30/1999,752,52,,
+wsjpta2gtm,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Guatemala,3/30/1999,752,66,,
+lbalcagtm,Benefits of ALCA in the economic development of the country,Guatemala,5/12/2001,1002,64.87,20.26,14.87
+cimaalcagtm,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Guatemala,12/20/2003,200,28,57,15
+cimaglobgtm,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Guatemala,12/20/2003,200,47,50,3
+lbftagtm_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Guatemala,8/5/2003,1006,27.93,35.09,36.97
+cimaalcagtm,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Guatemala,5/30/2004,300,46,25,29
+cimaglobgtm,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Guatemala,5/30/2004,300,32,55,13
+lapftagtm,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Guatemala,2/28/2004,1708,35.4,32.7,31.9
+lbftagtm_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Guatemala,6/4/2004,1000,42,21.7,36.3
+lbalcagtm,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Guatemala,6/4/2004,1000,54.2,20.2,25.6
+lbftagtm_job,impact of economic integration agreements on job opportunities,Guatemala,11/5/2006,1000,56.4,24.5,19.1
+lbftagtm_acc,impact of economic integration agreements on access to goods,Guatemala,11/5/2006,1000,53.7,27.3,19
+lbftagtm_ind,impact of economic integration agreements on quality of life,Guatemala,11/5/2006,1000,52.5,28.7,18.8
+lbftagtm_dev,impact of economic integration agreements on country development,Guatemala,11/5/2006,1000,57.7,24.8,17.5
+lbfreegtm,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Guatemala,11/5/2006,1000,72.4,20.7,6.9
+lbfreegtm,Agree with the elimination of import and export taxes in order to increase regional integration,Guatemala,10/9/2007,1000,43.5,35.1,21.4
+lbftagtm_job,International free trade treaties have a very positive impact on job opportunities,Guatemala,10/9/2007,1000,29.4,27.5,43.1
+lapftagtm,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Guatemala,3/31/2008,1538,27,39,34
+cimaftagtm,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Guatemala,3/31/2009,300,74,14,12
+cimaglobgtm,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Guatemala,3/31/2009,300,66,22,12
+lapftagtm,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Guatemala,3/31/2008,1504,41,28.1,28.7
+cimaftagtm,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Guatemala,4/30/2011,300,39,,
+lbfreegtm,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Guatemala,2/15/2015,1000,54.8,34.8,10.4
+lbfreegtm,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Guatemala,6/15/2016,1000,51.5,37.7,10.8
+lbfreegtm,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Guatemala,8/28/2017,1000,64.1,28.3,7.6
+lbfreehnd,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Honduras,9/1/1996,998,58.52,23.55,17.94
+lbalcahnd,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Honduras,9/1/1996,998,30.36,35.98,33.67
+lbfreehnd,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Honduras,12/19/1997,1011,79.63,15.04,5.34
+lbalcahnd,Benefits of ALCA in the economic development of the country,Honduras,5/10/2001,1000,80.3,14.4,5.3
+lbftahnd_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Honduras,8/12/2003,1006,37.98,42.04,19.98
+lapftahnd,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Honduras,2/28/2004,1500,35.5,36.4,28.1
+lbftahnd_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Honduras,6/4/2004,1000,50.3,21.8,27.9
+lbalcahnd,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Honduras,6/4/2004,1000,73.4,15.6,11
+lbftahnd_job,impact of economic integration agreements on job opportunities,Honduras,11/5/2006,1000,61,16.6,22.4
+lbftahnd_acc,impact of economic integration agreements on access to goods,Honduras,11/5/2006,1000,60.8,15.7,23.5
+lbftahnd_ind,impact of economic integration agreements on quality of life,Honduras,11/5/2006,1000,60.1,17,22.7
+lbftahnd_dev,impact of economic integration agreements on country development,Honduras,11/5/2006,1000,61.7,14.4,23.9
+lbfreehnd,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Honduras,11/5/2006,1000,74.1,19.3,6.6
+lbfreehnd,Agree with the elimination of import and export taxes in order to increase regional integration,Honduras,10/9/2007,1000,42.3,46.1,11.6
+lbftahnd_job,International free trade treaties have a very positive impact on job opportunities,Honduras,10/9/2007,1000,41.8,118.8,39.5
+lapftahnd,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Honduras,2/28/2008,1522,22.9,38.6,38.4
+cimaftahnd,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Honduras,3/31/2009,300,74,18,8
+cimaglobhnd,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Honduras,3/31/2009,300,58,31,11
+lapftahnd,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Honduras,2/28/2010,1596,50.4,17.2,32
+cimaftahnd,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Honduras,4/30/2011,300,33,,
+lbfreehnd,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Honduras,2/15/2015,1000,60.2,30.5,9.3
+lbfreehnd,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Honduras,6/15/2016,1000,61.1,34.6,4.3
+lbfreehnd,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Honduras,8/28/2017,1000,76.1,21.5,2.4
+usiafreemex,Some countries favor few restrictions to trade. Others favor many restrictions in order to protect their own products. What do you think is best?,Mexico,9/15/1985,1499,57,30,13
+usiafreemex,Do you favor few restrictions on foreign imports?,Mexico,11/18/1989,1507,41.6,44.4,14
+usianaftamex,Do you agree with a FTA with the US as the one recently reached between the US and Canada?,Mexico,11/18/1989,1507,70,20,10
+usiatariffmex,Do you think that the reduction of import tariffs has been beneficial for your country's economy?,Mexico,11/18/1989,819,65,23.5,11.5
+mpresnafta1mex,Do you agree with your country joining a FTA with the US to reduce tariffs and restrictions to trade?,Mexico,2/10/1991,1024,49.5,27,23.5
+mpresnafta2mex,Do you agree with your country joining NAFTA with the US and Canada?,Mexico,2/10/1991,1024,50,27.7,22.3
+mpresnaftamex_ind,Do you think you will enjoy a personal benefit from NAFTA?,Mexico,2/10/1991,1024,34.5,54.3,11.2
+mpresnaftamex_dev,Do you think that NAFTA will be beneficial for the country's economic development?,Mexico,10/15/1991,2457,74.3,15.2,10.5
+mpresnaftamex_ind,Do you think that NAFTA will be beneficial for the average citizen?,Mexico,10/15/1991,2457,63.7,21,15.3
+mpresnaftamex_job,Do you think that NAFTA will increase jobs available?,Mexico,10/15/1991,2457,77,11,12
+mpresnaftamex,"Overall, do you agree with your country joining NAFTA?",Mexico,10/15/1991,2457,60.5,13,26.5
+mpresnafta1mex,Do you agree with your country joining a FTA with the US and Canada to reduce tariffs and restrictions to trade?,Mexico,8/15/1992,3447,56,12,32
+mpresnaftamex_ind,Do you think that NAFTA will be beneficial for the average citizen?,Mexico,8/15/1992,3447,47,34.6,18.4
+mpresnaftamex_dev,Do you think that NAFTA will be beneficial for the country's economic development?,Mexico,8/15/1992,3447,69.6,19.2,11.2
+mpresnafta2mex,"Overall, do you agree with your country joining NAFTA?",Mexico,8/15/1992,3447,64.2,12.8,23
+mpresnafta1mex,Do you agree with your country joining a FTA with the US and Canada to reduce tariffs and restrictions to trade?,Mexico,12/20/1992,3493,63,8.8,28.2
+mpresnaftamex_ind,Do you think that NAFTA will be beneficial for the average citizen?,Mexico,12/20/1992,3493,48.7,34.3,17
+mpresnafta2mex,"Overall, do you agree with your country joining NAFTA?",Mexico,12/20/1992,3493,64,10,26
+usianaftamex,Do you favor or oppose NAFTA?,Mexico,9/15/1993,1508,53,14.3,32.2
+usianaftamex_dev,Do you think that NAFTA will be beneficial for the country's economic development?,Mexico,9/15/1993,1508,68.6,21.4,10
+usianaftamex_ind,Do you think that NAFTA will be beneficial for the average citizen?,Mexico,9/15/1993,1508,76.8,15.5,7.7
+usianaftamex_wag,Do you think that NAFTA will increase wages?,Mexico,9/15/1993,1508,63,14,23
+usianaftamex_job,Do you think that NAFTA will increase jobs available?,Mexico,9/15/1993,1508,50.6,19.3,30.1
+mpresnafta1mex,Do you agree with your country joining a FTA with the US and Canada to reduce tariffs and restrictions to trade?,Mexico,8/16/1993,3502,58.5,12.6,28.9
+mpresnafta2mex,"Overall, do you agree with your country joining NAFTA?",Mexico,8/16/1993,3502,63.2,14,22.8
+mpresnaftamex_ind,Do you think that NAFTA will be beneficial for the average citizen?,Mexico,8/16/1993,3502,64,17,19
+mpresnafta2mex,"Overall, do you agree with your country joining NAFTA?",Mexico,11/20/1993,3493,70.3,15.7,14
+usiafreemex,Some people say that unrestricted entry of foreign imports is beneficial because consumers pay less. Others want to restrict imports to protect jobs. Do you agree with no restrictions?,Mexico,8/21/1994,295,44.5,50,5.5
+usianaftamex_dev,Do you think that NAFTA will be beneficial for the country's economic development?,Mexico,8/21/1994,295,64.5,30.5,5
+usianaftamex_dev,Do you think that NAFTA is beneficial for the country's economic development?,Mexico,8/20/1995,1039,25.4,58.6,16
+usianaftamex_devlong,Do you think that NAFTA will be beneficial in the long term (10 years) for the country's economic development?,Mexico,8/20/1995,1039,52.7,34.3,13
+lbalcamex,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Mexico,5/30/1995,1204,47.51,31.06,21.43
+lbfreemex,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Mexico,6/30/1996,1526,62.39,25.82,11.79
+lbalcamex,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Mexico,6/30/1996,1526,30.74,49.35,19.92
+usianaftamex_dev,Do you think that NAFTA is beneficial for the country's economic development?,Mexico,3/19/1997,1016,52,46.3,1.7
+usianaftamex_devlong,Do you think that NAFTA will be beneficial in the long term (5 years) for the country's economic development?,Mexico,3/19/1997,1016,66,32.5,1.5
+lbfreemex,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Mexico,12/31/1997,1105,55.38,39.73,4.89
+wsjfreemex,Do you think that free trade is good or bad for our country?,Mexico,3/30/1998,0,70,,
+usianaftamex_dev,Do you think that NAFTA is beneficial for the country's economic development?,Mexico,4/30/1998,1510,52.6,41.2,6.2
+usiaalcamex,Do you think that the FTAAS will benefit the economy of your country?,Mexico,4/30/1998,1510,67,16,17
+usiauspolmex,What is your opinion on the US policy of free trade in Mexico?,Mexico,11/18/1998,1502,58.5,30.5,11
+usianaftamex_dev,Do you think that NAFTA is beneficial for the country's economic development?,Mexico,11/18/1998,1502,51,41.2,7.8
+usianaftamex_dev,Do you think that NAFTA is beneficial for the country's economic development?,Mexico,12/7/2000,1500,56,42,2
+usiaalcamex,Do you think that the FTAAS will benefit the economy of your country?,Mexico,12/7/2000,1500,83,12,5
+usiaglobmex,Do you think globalization has been beneficial to your country's economy?,Mexico,12/7/2000,519,73,22,5
+lbalcamex,Benefits of ALCA in the economic development of the country,Mexico,5/12/2001,1253,67.91,25.86,6.23
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,7/27/2002,996,78,13,8
+cimaalcamex,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Mexico,12/20/2003,404,46,33,21
+cimaglobmex,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Mexico,12/20/2003,404,40,45,15
+lbftamex_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Mexico,8/12/2003,1200,37.25,59.59,3.17
+cimaalcamex,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Mexico,5/30/2004,506,49,35,16
+cimaglobmex,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Mexico,5/30/2004,506,38,51,11
+cidealcamex,"M‚xico y la mayor¡a de los pa¡ses del continente americanoest n discutiendo un Acuerdo de Libre Comercio de las Am‚ricas parecido al TNAFTA. ¨Est  usted a favor o en contra de esta idea? (""depende""=dk)",Mexico,7/19/2004,1500,62,19,19
+cideglobalmex,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Mexico,7/19/2004,1500,34,31,35
+cidenaftamex,"En general, ¨cree usted que el NAFTA es bueno o malo para la economia de su pais?",Mexico,7/19/2004,1500,44,39,17
+lapftamex,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Mexico,2/28/2004,1556,46.6,29,24.4
+lbftamex_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Mexico,6/7/2004,1200,46.25,31.5,22.25
+lbalcamex,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Mexico,6/7/2004,1200,50.25,39.75,10
+cidetrademex,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Mexico,7/27/2006,756,59,27,15
+cidenaftamex,"En general, ¨cree usted que el NAFTA es bueno o malo para la economia de su pais?",Mexico,7/27/2006,743,55,30,20
+cideincreasemex,¨Est  usted de acuerdo o en desacuerdo con que su pais incremente su comercio con otras naciones?,Mexico,7/27/2006,743,79,14,7
+lbftamex_job,impact of economic integration agreements on job opportunities,Mexico,11/5/2006,1200,46.67,24.25,29.08
+lbftamex_acc,impact of economic integration agreements on access to goods,Mexico,11/5/2006,1200,53.5,16.83,29.66
+lbftamex_ind,impact of economic integration agreements on quality of life,Mexico,11/5/2006,1200,50.75,17.33,31.91
+lbftamex_dev,impact of economic integration agreements on country development,Mexico,11/5/2006,1200,52,18,30
+lbfreemex,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Mexico,11/5/2006,1200,62.17,29.75,8.08
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,4/27/2007,828,77,19,4
+lbfreemex,Agree with the elimination of import and export taxes in order to increase regional integration,Mexico,10/9/2007,1200,52.25,39.91,7.83
+lbftamex_job,International free trade treaties have a very positive impact on job opportunities,Mexico,10/9/2007,1200,54.17,19.92,25.92
+cidetrademex,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Mexico,9/6/2008,2395,61,26,13
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,3/31/2008,805,69,26,5
+lapftamex,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Mexico,2/28/2008,1560,41.6,34.3,24.1
+cimaftamex,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Mexico,3/31/2009,455,58,35,7
+cimaglobmex,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Mexico,3/31/2009,455,49,47,4
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,6/2/2009,1000,79,16,6
+cidetrademex,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Mexico,10/29/2010,2400,63,21,15
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,5/6/2010,1300,71,19,10
+lapftamex,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Mexico,2/28/2010,1562,45.6,28.4,26
+cimaftamex,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Mexico,3/31/2011,445,55,,
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,4/7/2011,800,79,17,4
+cidetrademex,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Mexico,9/20/2012,1200,64,22,9
+cidetrade2mex,"El libre comercio trae ventajas (por ejemplo, nuevos mercados para productos mexicanos) como desventajas (por ejemplo, mayor competencia de productos extranjeros). Tomando esto en cuenta, ¨cree usted que el libre comercio es bueno o malo para la economia de su pais?",Mexico,9/20/2012,1200,61,26,13
+cidetrademex,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Mexico,12/22/2014,1212,61,19,20
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,5/2/2014,1000,71,24,5
+pewglobmex_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Mexico,5/2/2014,1000,65,28,7
+pewglobmex_job,Do you agree that trade with other countries leads to jobs creation in your country?,Mexico,5/2/2014,1000,68,26,6
+pewglobmex_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Mexico,5/2/2014,1000,51,43,6
+lbfreemex,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Mexico,6/15/2016,1200,58.84,34.58,6.58
+lbfreemex,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Mexico,8/28/2017,1200,73.41,24.09,2.5
+pewglobmex,What do you think about the growing trade and business ties between your country and other countries?,Mexico,6/30/2018,915,79,19,2
+pewglobmex_wag,Do you agree that trade with other countries leads to an increase in the wages of your country's workers?,Mexico,6/30/2018,915,75,21,4
+pewglobmex_job,Do you agree that trade with other countries leads to jobs creation in your country?,Mexico,6/30/2018,915,69,26,5
+pewglobmex_pri,Do you agree that trade with other countries leads to a decrease in the price of products sold in your country?,Mexico,6/30/2018,915,52,45,3
+lbfreenic,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Nicaragua,9/1/1996,1034,79.88,10.83,9.29
+lbalcanic,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Nicaragua,9/1/1996,1034,45.84,39.84,14.31
+lbfreenic,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Nicaragua,12/27/1997,1002,83.13,13.58,3.29
+lbalcanic,Benefits of ALCA in the economic development of the country,Nicaragua,5/8/2001,1005,69.05,21.99,8.96
+lbftanic_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Nicaragua,8/11/2003,1010,37.82,43.66,18.51
+lapftanic,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Nicaragua,2/28/2004,1430,43.8,28.2,28
+lbftanic_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Nicaragua,6/1/2004,1000,47.6,19.7,32.7
+lbalcanic,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Nicaragua,6/1/2004,1000,61.3,18.4,20.3
+lbftanic_job,impact of economic integration agreements on job opportunities,Nicaragua,11/5/2006,1000,57.3,25,17.7
+lbftanic_acc,impact of economic integration agreements on access to goods,Nicaragua,11/5/2006,1000,58.6,20.8,20.6
+lbftanic_ind,impact of economic integration agreements on quality of life,Nicaragua,11/5/2006,1000,56.2,23.3,20.5
+lbftanic_dev,impact of economic integration agreements on country development,Nicaragua,11/5/2006,1000,55.8,24.8,19.4
+lbfreenic,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Nicaragua,11/5/2006,1000,73.2,20.7,6.1
+lbfreenic,Agree with the elimination of import and export taxes in order to increase regional integration,Nicaragua,10/9/2007,1000,53.1,39.9,7
+lbftanic_job,International free trade treaties have a very positive impact on job opportunities,Nicaragua,10/9/2007,1000,66,14.5,19.5
+lapftanic,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Nicaragua,2/28/2008,1540,33.9,33.7,32.4
+cimaftanic,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Nicaragua,3/31/2009,301,58,31,11
+cimaglobnic,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Nicaragua,3/31/2009,301,53,39,8
+lapftanic,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Nicaragua,2/28/2010,1540,55.3,21.8,23
+cimaftanic,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Nicaragua,3/31/2011,301,64,,
+pewglobnic,What do you think about the growing trade and business ties between your country and other countries?,Nicaragua,5/25/2014,1008,87,10,2
+lbfreenic,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Nicaragua,2/15/2015,1000,70.7,17.5,11.8
+lbfreenic,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Nicaragua,6/15/2016,1000,84.4,9.4,6.2
+lbfreenic,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Nicaragua,8/28/2017,1000,83.1,12,4.9
+lbfreepan,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Panama,9/1/1996,1005,76.72,11.04,12.24
+lbalcapan,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Panama,9/1/1996,1005,41,41.59,17.41
+lbfreepan,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Panama,12/22/1997,1021,71.79,20.57,7.64
+wsjfreepan,Do you think that free trade is good or bad for our country?,Panama,3/30/1998,0,74,,
+wsjpta1pan,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Panama,3/30/1999,754,30,,
+wsjpta2pan,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Panama,3/30/1999,754,49,,
+lbalcapan,Benefits of ALCA in the economic development of the country,Panama,5/8/2001,1000,51.9,42.2,5.9
+cimaalcapan,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Panama,12/20/2003,100,59,21,20
+cimaglobpan,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Panama,12/20/2003,100,35,55,10
+lbftapan_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Panama,8/10/2003,1004,27.79,48.5,23.71
+cimaalcapan,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Panama,5/30/2004,211,56,27,17
+cimaglobpan,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Panama,5/30/2004,211,38,57,5
+lapftapan,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Panama,2/28/2004,1639,55.7,24.3,20
+lbftapan_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Panama,6/3/2004,1000,43.4,24.6,32
+lbalcapan,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Panama,6/3/2004,1000,50.8,25,24.2
+lapftapan,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Panama,2/28/2006,1536,34.9,30.5,34.6
+lbftapan_job,impact of economic integration agreements on job opportunities,Panama,11/5/2006,1008,59.72,16.07,24.2
+lbftapan_acc,impact of economic integration agreements on access to goods,Panama,11/5/2006,1008,62.99,13.19,23.81
+lbftapan_ind,impact of economic integration agreements on quality of life,Panama,11/5/2006,1008,58.93,17.96,23.11
+lbftapan_dev,impact of economic integration agreements on country development,Panama,11/5/2006,1008,61.01,16.27,22.72
+lbfreepan,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Panama,11/5/2006,1008,68.65,20.24,11.11
+lbfreepan,Agree with the elimination of import and export taxes in order to increase regional integration,Panama,10/9/2007,1008,41.77,39.78,18.45
+lbftapan_job,International free trade treaties have a very positive impact on job opportunities,Panama,10/9/2007,1008,42.36,19.84,37.8
+lapftapan,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Panama,2/28/2008,1536,39.9,33.8,26.4
+cimaftapan,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Panama,3/31/2009,506,59,29,12
+cimaglobpan,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Panama,3/31/2009,506,48,41,11
+lapftapan,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Panama,2/28/2010,1536,53.3,18.5,28.2
+cimaftapan,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Panama,4/30/2011,286,64,,
+lbfreepan,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Panama,2/15/2015,1000,59.2,34.4,6.4
+lbfreepan,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Panama,6/15/2016,1000,58.8,34.6,6.6
+lbfreepan,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Panama,8/28/2017,1000,60.8,34,5.2
+lbalcapry,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Paraguay,6/30/1995,587,55.54,22.83,21.63
+lbfreepry,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Paraguay,7/1/1996,598,58.03,35.95,6.02
+lbalcapry,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Paraguay,7/1/1996,598,26.59,56.18,17.23
+lbfreepry,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Paraguay,12/20/1997,575,55.82,29.05,15.13
+wsjfreepry,Do you think that free trade is good or bad for our country?,Paraguay,3/30/1998,0,59,,
+wsjpta1pry,Do you believe (Mercosur/CACM) has helped or hurt with respect to you and your family?,Paraguay,3/30/1999,478,12,,
+wsjpta2pry,Do you believe (Mercosur/CACM) has helped or hurt with respect to the economy of the country?,Paraguay,3/30/1999,478,26,,
+lbalcapry,Benefits of ALCA in the economic development of the country,Paraguay,5/6/2001,604,71.85,19.7,8.44
+lbftapry_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Paraguay,8/29/2003,600,63,27.33,9.66
+cimaalcapry,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Paraguay,5/30/2004,199,23,43,34
+cimaglobpry,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Paraguay,5/30/2004,199,51,32,17
+lbftapry_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Paraguay,6/2/2004,600,45,12,43
+lbalcapry,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Paraguay,6/2/2004,600,66.17,16.33,17.5
+lbftapry_job,impact of economic integration agreements on job opportunities,Paraguay,11/5/2006,1200,43.83,12.5,43.66
+lbftapry_acc,impact of economic integration agreements on access to goods,Paraguay,11/5/2006,1200,48.58,12,39.42
+lbftapry_ind,impact of economic integration agreements on quality of life,Paraguay,11/5/2006,1200,45.33,12.92,41.75
+lbftapry_dev,impact of economic integration agreements on country development,Paraguay,11/5/2006,1200,47.58,11.58,40.84
+lbfreepry,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Paraguay,11/5/2006,1200,61.67,36,2.33
+lbfreepry,Agree with the elimination of import and export taxes in order to increase regional integration,Paraguay,10/9/2007,1200,44.75,46.34,8.92
+lbftapry_job,International free trade treaties have a very positive impact on job opportunities,Paraguay,10/9/2007,1200,44.83,14.08,41.09
+lapftapry,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Paraguay,2/28/2008,1166,26.9,44.3,28.7
+cimaftapry,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Paraguay,3/31/2009,500,53,33,14
+cimaglobpry,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Paraguay,3/31/2009,500,43,43,14
+lapftapry,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Paraguay,2/28/2010,1502,32.4,39.2,28.4
+cimaftapry,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Paraguay,3/31/2011,500,56,,
+lbfreepry,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Paraguay,2/15/2015,1200,58.92,18.16,22.92
+lbfreepry,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Paraguay,6/15/2016,1200,87.67,6.08,6.25
+lbfreepry,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Paraguay,8/28/2017,1200,85.25,8.92,5.83
+usiafreeper,Some people say that unrestricted entry of foreign imports is beneficial because consumers pay less. Others want to restrict imports to protect jobs. Do you agree with no restrictions?,Peru,9/21/1994,1200,37,55.6,7.4
+lbalcaper,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Peru,6/30/1995,1226,71.53,10.52,17.95
+usiauspolper,What is your opinion on the US policy of free trade in Latin America?,Peru,12/4/1996,1203,68,10,22
+lbfreeper,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Peru,6/30/1996,1200,63.08,18.42,18.5
+lbalcaper,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Peru,6/30/1996,1200,28.08,45,26.92
+lbfreeper,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Peru,12/12/1997,1054,60.53,22.86,16.6
+wsjfreeper,Do you think that free trade is good or bad for our country?,Peru,3/30/1998,0,85,,
+usiaalcaper,Do you think that the FTAAS will benefit the economy of your country?,Peru,12/18/2000,1212,64.4,19.6,16
+usiaglobper,"Do you think globalization, understood as the expansion of global markets and free trade to all parts of the world, has been beneficial to your country's economy?",Peru,12/18/2000,265,51,28.7,20.3
+lbalcaper,Benefits of ALCA in the economic development of the country,Peru,4/24/2001,1023,71.16,14.37,14.47
+pewglobper,What do you think about the growing trade and business ties between your country and other countries?,Peru,7/21/2002,711,83,13,4
+cimaalcaper,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Peru,2/14/2003,543,62,11,27
+cimaglobper,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Peru,2/14/2003,543,64,27,9
+lbftaper_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Peru,8/29/2003,1200,25.59,46.33,28.08
+cimaalcaper,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Peru,5/30/2004,604,56,17,27
+cimaglobper,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Peru,5/30/2004,604,51,35,14
+lbftaper_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Peru,5/28/2004,1200,45.33,14.41,40.25
+lbalcaper,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Peru,5/28/2004,1200,69.92,13.58,16.5
+lbftaper_job,impact of economic integration agreements on job opportunities,Peru,11/5/2006,1200,54.41,19.25,26.33
+lbftaper_acc,impact of economic integration agreements on access to goods,Peru,11/5/2006,1200,66.25,11.75,22
+lbftaper_ind,impact of economic integration agreements on quality of life,Peru,11/5/2006,1200,55.17,19.92,24.91
+lbftaper_dev,impact of economic integration agreements on country development,Peru,11/5/2006,1200,59.75,17.66,22.58
+lbfreeper,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Peru,11/5/2006,1200,71.16,21.41,7.42
+pewglobper,What do you think about the growing trade and business ties between your country and other countries?,Peru,4/29/2007,800,81,15,3
+lbfreeper,Agree with the elimination of import and export taxes in order to increase regional integration,Peru,10/9/2007,1200,57.67,30.09,12.25
+lbftaper_job,International free trade treaties have a very positive impact on job opportunities,Peru,10/9/2007,1200,52,16.58,31.42
+cidetradeper,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Peru,9/8/2008,1235,67,22,11
+cideglobalper,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Peru,9/8/2008,1235,62,12,26
+lapftaper,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Peru,2/28/2008,1500,39.4,33.7,26.9
+cimaftaper,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Peru,3/31/2009,523,70,21,9
+cimaglobper,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Peru,3/31/2009,523,70,21,9
+cidetradeper,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Peru,12/2/2010,1516,68,13,19
+cideglobalper,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Peru,12/2/2010,1516,63,10,27
+lapftaper,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Peru,2/28/2010,1500,38.3,30.1,31.6
+cimaftaper,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Peru,4/30/2011,665,66,,
+lapftaper,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Peru,2/10/2012,1500,49.4,22.5,28.1
+cidetradeper,"En general, ¨cree usted que el comercio internacional es bueno o malo para la economia de su pais?",Peru,11/30/2014,1200,71,9,20
+cideglobalper,"¨Cree usted que el mayor contacto de nuestra econom¡a con otras econom¡as en el mundo, lo que se conoce como globalizaci¢n, es generalmente bueno o generalmente malo para el pais? (""neither"", ""depende""=dk)",Peru,11/30/2014,1200,50,11,39
+pewglobper,What do you think about the growing trade and business ties between your country and other countries?,Peru,5/2/2014,1000,81,12,7
+lbfreeper,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Peru,2/15/2015,1200,68.75,19.84,11.42
+lbfreeper,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Peru,6/15/2016,1200,59,30.17,10.83
+lbfreeper,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Peru,8/28/2017,1200,68.09,25.84,6.08
+usiausftauru,Do you that joining a FTA with the US will contribute to the development of your country's economy?,Uruguay,8/11/1990,1095,30.5,39.4,30.1
+lbalcauru,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Uruguay,6/30/1995,1212,55.53,23.35,21.12
+lbfreeuru,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Uruguay,7/1/1996,1200,68.92,19.83,11.25
+lbalcauru,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Uruguay,7/1/1996,1200,43.42,44.25,12.34
+lbfreeuru,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Uruguay,12/20/1997,1189,47.27,38.77,13.96
+usiaalcauru_job,(For respondents who say they know about the agreement) Do you think that the FTAAS will increase job opportunities?,Uruguay,12/3/2001,441,51.7,17.7,30.6
+usiaalcauru_ind,Do you agree that the FTAAS will benefit the average individual?,Uruguay,12/3/2001,1000,36.3,54.4,9.3
+usiaalcauru_dev,(For respondents who say they know about the agreement) Do you think that the FTAAS will contribute to the development of your country's economy?,Uruguay,12/3/2001,441,51.2,17.2,31.6
+lbalcauru,Benefits of ALCA in the economic development of the country,Uruguay,4/20/2001,1200,60.75,25.91,13.33
+cimaalcauru,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Uruguay,2/14/2003,400,26,30,44
+cimagloburu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Uruguay,2/14/2003,400,26,50,24
+lbftauru_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Uruguay,8/28/2003,1200,48.58,33.33,18.08
+cimaalcauru,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Uruguay,5/30/2004,212,24,30,46
+cimagloburu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Uruguay,5/30/2004,212,30,49,21
+lbftauru_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Uruguay,6/23/2004,1200,32.92,20.83,46.25
+lbalcauru,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Uruguay,6/23/2004,1200,52.25,21.67,26.09
+lbftauru_job,impact of economic integration agreements on job opportunities,Uruguay,11/5/2006,1200,54.33,12.5,33.17
+lbftauru_acc,impact of economic integration agreements on access to goods,Uruguay,11/5/2006,1200,60.16,13.5,26.33
+lbftauru_ind,impact of economic integration agreements on quality of life,Uruguay,11/5/2006,1200,55.08,15.41,29.5
+lbftauru_dev,impact of economic integration agreements on country development,Uruguay,11/5/2006,1200,66.67,11.99,21.25
+lbfreeuru,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Uruguay,11/5/2006,1200,73.59,18.91,7.5
+lbfreeuru,Agree with the elimination of import and export taxes in order to increase regional integration,Uruguay,10/9/2007,1200,60.41,23.75,15.84
+lbftauru_job,International free trade treaties have a very positive impact on job opportunities,Uruguay,10/9/2007,1200,48.42,10.66,40.92
+lapftauru,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Uruguay,5/30/2008,1500,54.2,17.8,28
+cimaftauru,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Uruguay,3/31/2009,350,57,17,26
+cimagloburu,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Uruguay,3/31/2009,350,48,29,23
+lapftauru,To what extent do you think that free trade agreements with other countries in Latin America will help improve [country's] economy?,Uruguay,4/30/2010,1500,65.6,9.4,25
+cimaftauru,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Uruguay,4/30/2011,400,80,,
+lbfreeuru,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Uruguay,2/15/2015,1200,74.92,9.92,15.17
+lbfreeuru,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Uruguay,6/15/2016,1200,78,16.58,5.42
+lbfreeuru,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Uruguay,8/28/2017,1200,82.58,13.83,3.58
+usiausftaven,Do you agree that a FTA with the United States will be beneficial to the economic development of your country?,Venezuela,8/28/1990,1000,48,39.4,12.6
+usiauspolven,Do you think that the free trade policy of the US toward Latin America is beneficial to the economy of your country?,Venezuela,8/26/1993,1400,36.3,28.7,35
+usiaalcaven,Do you agree with your country joining NAFTA or a FTA with the US and Canada?,Venezuela,8/26/1993,1400,40.5,20.7,38.8
+lbalcaven,"All things considered, would you say that [nation] benefits or not from its future links with regional trading block? (benefits, doesn't benefit, dk)",Venezuela,6/30/1995,1200,51.33,15.58,33.08
+lbfreeven,"Do you think that trade with other countries, both the buying and selling of products, helps [nation's] economy or harms [nation's] economy? (helps, harms)",Venezuela,7/1/1996,1500,61.27,22.73,16
+lbalcaven,"All things considered, would you say that [nation] benefits or not from its future links with [regional trading block] (Much Benefit, Some benefit, Low benefit, Doesn't benefit at all)",Venezuela,7/1/1996,1500,40.33,34.6,25.07
+usiauspolven,Do you think that the free trade policy of the US toward Latin America is beneficial to the economy of your country?,Venezuela,8/31/1997,944,63.5,19,17.5
+lbfreeven,"How do you think imports influence over the economy? (Help a lot, help a little, damage a little, damage a lot)",Venezuela,12/21/1997,1200,65.33,25.75,8.92
+wsjfreeven,Do you think that free trade is good or bad for our country?,Venezuela,3/30/1998,0,81,,
+usiaalcaven,Do you think that the FTAAS will contribute to the development of your country's economy?,Venezuela,12/5/2000,1046,30.2,34.8,35
+lbalcaven,Benefits of ALCA in the economic development of the country,Venezuela,4/25/2001,1200,72.75,16.58,10.67
+pewglobven,What do you think about the growing trade and business ties between your country and other countries?,Venezuela,7/27/2002,800,86,12,1
+cimaalcaven,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Venezuela,2/14/2003,301,52,20,28
+cimaglobven,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Venezuela,2/14/2003,301,50,34,16
+lbftaven_ind,"How do you think the Free Trade Agreements (NAFTA, CAFTA) and the Commercial Agreements benefit you and your family?",Venezuela,8/6/2003,1200,29.75,51.42,18.83
+cimaalcaven,¨Considera usted que pertenecer al ALCA ser  ben‚fico para el pa¡s o perjudicial para el pa¡s?,Venezuela,5/30/2004,500,59,22,19
+cimaglobven,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Venezuela,5/30/2004,500,47,25,28
+lbftaven_job,"Do you believe that free trade treaties have a very positive, positive, negative, very negative impact over job opportunities",Venezuela,6/13/2004,1200,44.33,16,39.67
+lbalcaven,"Do you think that having free trade between your country, other Latin American countries, and the U.S. would lead to greater economic prosperity",Venezuela,6/13/2004,1200,58.67,17.75,23.58
+lbftaven_job,impact of economic integration agreements on job opportunities,Venezuela,11/5/2006,1200,70.5,11.41,18.08
+lbftaven_acc,impact of economic integration agreements on access to goods,Venezuela,11/5/2006,1200,70.58,12.42,17
+lbftaven_ind,impact of economic integration agreements on quality of life,Venezuela,11/5/2006,1200,71.92,11.75,16.33
+lbftaven_dev,impact of economic integration agreements on country development,Venezuela,11/5/2006,1200,72.25,11.08,16.67
+lbfreeven,Do you agree with economic integration agreements that allow you to freely buy goods and services from any other country in the region and that that country can freely sell goods and services in your country,Venezuela,11/5/2006,1200,71.16,18.33,10.5
+pewglobven,What do you think about the growing trade and business ties between your country and other countries?,Venezuela,5/21/2007,803,79,19,2
+lbfreeven,Agree with the elimination of import and export taxes in order to increase regional integration,Venezuela,10/9/2007,1200,41.84,41.91,16.25
+lbftaven_job,International free trade treaties have a very positive impact on job opportunities,Venezuela,10/9/2007,1200,46.75,17.83,35.41
+cimaftaven,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Venezuela,3/31/2009,891,41,44,15
+cimaglobven,¨Usted considera que la globalizaci¢n ha sido positiva para el pa¡s o ha sido negativa para el pa¡s?,Venezuela,3/31/2009,891,55,33,12
+cimaftaven,"Se ha venido realizando convenios entre dos o m s pa¡ses, para el intercambio de sus productos (tratados de libre comercio o T.L.C). ¨Usted cree que tales tratados son ben‚ficos o perjudiciales para el pa¡s?",Venezuela,4/30/2011,500,67,,
+pewglobven,What do you think about the growing trade and business ties between your country and other countries?,Venezuela,5/10/2014,1000,75,19,6
+lbfreeven,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Venezuela,2/15/2015,1200,72.09,24.25,3.67
+lbfreeven,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Venezuela,6/15/2016,1200,89,8.42,2.58
+lbfreeven,That (country) can buy goods and services from any other country and that any other country can sell goods and services,Venezuela,8/28/2017,1200,91.75,6.67,1.58
