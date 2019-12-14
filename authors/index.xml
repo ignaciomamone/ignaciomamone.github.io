@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | IM</title>
+    <title>Authors | Ignacio Mamone</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,14 +15,24 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome! I am a PhD candidate in Political Science at the University of Pittsburgh. My research interests are broadly in international political economy and political behavior.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome! I am a PhD candidate in Political Science at the University of Pittsburgh. In Spring 2020, I will be a Visiting Researcher at Georgetown University&amp;rsquo;s Center for Latin American Studies.&lt;/p&gt;
+
+&lt;p&gt;My research interests are broadly in international and comparative political economy and political behavior.&lt;/p&gt;
 
 &lt;p&gt;My dissertation analyzes how public support for free trade evolves over time and the conditions under which policymakers adjust trade policy to voters&amp;rsquo; preferences in developing democracies. My research agenda also includes work on the political economy of sovereign debt, international financial institutions, and intergovernmental transfers.&lt;/p&gt;
 
-&lt;p&gt;I am a native of Argentina, where I lectured in political science and international relations and served as a policy analyst in Congress and the City Government of Buenos Aires.&lt;/p&gt;
+&lt;p&gt;I am from Argentina, where I lectured in political science and international relations, mentored undergraduate students, and served as an economic policy analyst in Congress and the City Government of Buenos Aires.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jose Incio</title>
+      <link>/authors/jose-incio/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jose-incio/</guid>
+      <description></description>
     </item>
     
     <item>
